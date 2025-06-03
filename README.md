@@ -68,7 +68,7 @@
 <a href="https://github-readme-stats-silk-six-16.vercel.app/api?username=rizuruu&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api?username=rizuruu&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=rizuruu&hide=css&theme=tokyonight">
+<a href="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=rizuruu&hide=css&theme=tokyonight&count_private=true">
   <img align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=rizuruu&hide=css&theme=tokyonight&count_private=true" />
 </a>
 </div>
