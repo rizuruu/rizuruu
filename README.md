@@ -17,7 +17,7 @@
 
 <p align="center">
  <a href="https://beyondinfinitystudio.com" target="_blank" rel="noopener noreferrer"> <img src="https://beyondinfinitystudio.com/wp-content/uploads/2020/11/cropped-favicon-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://rimuruslime.com" target="_blank" rel="noopener noreferrer"> <img src="https://rimuruslime.com/wp-content/uploads/2024/12/cropped-3-1-Photoroom.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://rimuruslime.com" target="_blank" rel="noopener noreferrer"> <img src="https://rimuruslime.com/wp-content/uploads/2025/05/cropped-rimuru_header.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 <br />
