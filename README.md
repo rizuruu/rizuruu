@@ -25,3 +25,10 @@ Game Developer specializing in Unity (C#) and Unreal Engine (Blueprints/C++). Bu
 - **LinkedIn:** [linkedin.com/in/rizelgodwin](https://www.linkedin.com/in/rizelgodwin)  
 - **GitHub:** [github.com/rizuruu](https://github.com/rizuruu)  
 - **Portfolio:** [beyondinfinitystudio.com](https://beyondinfinitystudio.com)  
+
+<div>
+
+<img align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=rizuruu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" />
+<img  align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api?username=rizuruu&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" />
+
+</div>
