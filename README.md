@@ -65,12 +65,10 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rizuruu&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats-silk-six-16.vercel.app/api?username=rizuruu&theme=radical&count_private=true">
-  <img  align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api?username=rizuruu&count_private=true&show_icons=true&theme=radical&hide_border=true" />
-</a>
-<a href="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=rizuruu&hide=css&theme=radical">
-  <img align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=rizuruu&hide=css&theme=radical&hide_border=true" />
-</a>
+
+<img align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=rizuruu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" />
+<img  align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api?username=rizuruu&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" />
+
 </div>
 
 
