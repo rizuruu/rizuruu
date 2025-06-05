@@ -14,17 +14,11 @@ Game Developer specializing in Unity (C#) and Unreal Engine (Blueprints/C++). Bu
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" height="40" style="margin:5px">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="C++" height="40" style="margin:5px">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" height="40" style="margin:5px">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" height="40" style="margin:5px">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" alt="PHP" height="40" style="margin:5px">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" height="40" style="margin:5px">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="Go" height="40" style="margin:5px">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,php,python,golang" alt="Tools" height="50" style="margin:5px">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,blender,nodejs,mysql,git,linux" alt="Tools" height="50">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,blender,nodejs,mysql,git,linux" alt="Tools" height="50" style="margin:5px">
 </p>
 
 ### Connect
