@@ -6,7 +6,7 @@
 Game Developer specializing in Unity (C#) and Unreal Engine (Blueprints/C++). Builds gameplay mechanics, custom tools, multiplayer frameworks and other modular systems. Experienced with full-stack web integration and 3D asset creation.
 
 ### Core Skills
-- **Languages:** C#, C++, JavaScript/TypeScript, PHP, Python, Go  
+- **Languages:** C#, C++, JavaScript/TypeScript, PHP, Python, Go, Java  
 - **Game Engines:** Unity (expert), Unreal Engine (proficient)  
 - **Web/Backend:** Node.js, Express, REST APIs, MySQL  
 - **Tools:** Git, Perforce, WPF (C#), Blender, performance profiling  
@@ -14,7 +14,7 @@ Game Developer specializing in Unity (C#) and Unreal Engine (Blueprints/C++). Bu
 ### Languages & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,php,python,golang" alt="Tools" height="50" style="margin:5px">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,php,python,golang,java" alt="Tools" height="50" style="margin:5px">
 </p>
 
 <p align="center">
