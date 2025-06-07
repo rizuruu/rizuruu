@@ -14,11 +14,11 @@ Game Developer specializing in Unity (C#) and Unreal Engine (Blueprints/C++). Bu
 ### Languages & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,php,python,golang,java" alt="Tools" height="50" style="margin:5px">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,php,html,css,python,golang,java" alt="Tools" height="50" style="margin:5px">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,blender,nodejs,mysql,git,linux" alt="Tools" height="50" style="margin:5px">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,dotnet,androidstudio,blender,nodejs,mysql,mongodb,git,firebase,express,figma,linux,raspberrypi" alt="Tools" height="50" style="margin:5px">
 </p>
 
 ### Connect
