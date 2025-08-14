@@ -51,7 +51,7 @@ Game Developer specializing in Unity (C#) and Unreal Engine (Blueprints/C++). Bu
 
 ### Connect
 - **LinkedIn:** [linkedin.com/in/rizelgodwin](https://www.linkedin.com/in/rizelgodwin)  
-- **GitHub:** [github.com/rizuruu](https://github.com/rizuruu)  
+- **Hobby:** [rimuruslime.com](https://rimuruslime.com)  
 - **Portfolio:** [beyondinfinitystudio.com](https://beyondinfinitystudio.com)  
 
 <div>
